@@ -1,0 +1,37 @@
+[
+    {
+        "id": "-2692498989744249236",
+        "date": "2025-05-12",
+        "category": "Food",
+        "amount": 30.0,
+        "description": ""
+    },
+    {
+        "id": "-2692498989744249236",
+        "date": "2025-05-12",
+        "category": "Transportation",
+        "amount": 30.0,
+        "description": ""
+    },
+    {
+        "id": "-2692498989744249236",
+        "date": "2025-05-12",
+        "category": "Entertainment",
+        "amount": 30.0,
+        "description": ""
+    },
+    {
+        "id": "-2692498989744249236",
+        "date": "2025-05-12",
+        "category": "Utilities",
+        "amount": 5.0,
+        "description": ""
+    },
+    {
+        "id": "-2692498989744249236",
+        "date": "2025-05-12",
+        "category": "Miscellaneous",
+        "amount": 5.0,
+        "description": ""
+    }
+]
